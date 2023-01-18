@@ -1,0 +1,11 @@
+#spring:
+ # datasource:
+  #  username: root
+  # password: Password
+  #  url: jdbc:mysql://localhost:3306/bhavya
+  #  driver-class-name: com.mysql.cj.jdbc.Driver
+
+  #jpa:
+  # show-sql:true
+  # hibernate.dd1-auto: update
+  #  properties.hibernate.dealect: org.hibernate.dialect.MySQL5Dialect
